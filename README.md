@@ -93,8 +93,8 @@ The arduino uno used in this project
 
 ## Authors
 
-* **Zach Lyu** *
-* **Gwinky Yip** *
+* **Zach Lyu** 
+* **Gwinky Yip** 
 
 ## License
 
