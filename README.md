@@ -65,7 +65,7 @@ In the slave Arduino:
 
 ## Deployment
 
-###PCB Development
+### PCB Development
 
 The PCB file is named PCB board.pcb
 The result are shown below
@@ -73,14 +73,14 @@ The result are shown below
 ![PCB after soldering](https://github.com/bijiuni/pulse_oximeter/blob/master/img/pcb2.PNG)
 
 
-###Display
+### Display
 
 The screen display are in the following format
 
 ![Screen Display](https://github.com/bijiuni/pulse_oximeter/blob/master/img/display.PNG)
 
 
-###Arduino
+### Arduino
 
 The arduino uno used in this project
 
